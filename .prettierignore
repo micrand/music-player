@@ -1,0 +1,12 @@
+node_modules/
+ios/
+android/
+assets/
+.expo/
+.idea/
+.vscode/
+*.log
+.DS_Store
+build/
+dist/
+coverage/

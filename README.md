@@ -10,10 +10,11 @@ This project focuses on a clean, distraction-free experience — no accounts, no
 
 ## ✨ Features
 - Local music file listing
-- Play, pause, next, and previous controls
-- Background audio playback
-- Notification / lock screen controls
+- Button controls
+- Artists
+- Favorites
 - Simple and clean user interface
+- Playlist
 
 ---
 
@@ -22,6 +23,7 @@ This project focuses on a clean, distraction-free experience — no accounts, no
 - **JavaScript / TypeScript**
 - **react-native-track-player** (audio playback)
 - **Android & iOS support** (Android-first)
+- **Expo Go**
 
 ---
 
